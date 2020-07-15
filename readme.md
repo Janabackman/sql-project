@@ -1,6 +1,5 @@
 # SQL Project
-
-SQL database for a petstore. 
+The project include creating a database for a (imaginary) pet store. 
 Files include:
 1. ER Diagram
 2. Metadata 

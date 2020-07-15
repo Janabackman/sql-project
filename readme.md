@@ -1,4 +1,4 @@
-#SQL Project
+# SQL Project
 
 SQL database for a petstore. 
 Files include:
